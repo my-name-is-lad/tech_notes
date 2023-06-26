@@ -1,0 +1,6 @@
+#+TITLE: Technical notes about various stuff
+#+AUTHOR: Nick
+
+This repo contains various notes, tech recipies, design documents, and other stuff that may be of interest to others in Typeable.
+
+Hopefully, this is a temporary solution and I'll find a better suiting service for this rather than just a Git repo. No, I will not use Confluence because Confluence is one ginormous piece of suck.
